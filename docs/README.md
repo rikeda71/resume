@@ -102,7 +102,7 @@
 |---|---|
 |メールアドレス|tech.adeki@gmail.com|
 |Github|[s14t284](https://github.com/s14t284)|
-|Zenn|[ikechan0829](https://twitter.com/techadeki)|
+|Zenn|[ikechan0829](https://zenn.dev/ikechan0829)|
 
 ---
 
