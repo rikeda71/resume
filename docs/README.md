@@ -51,7 +51,7 @@
 |---|---|---|---|---|
 |2021/07 ~ 2022/01|MVP プロダクトの改修・保守運用|MVP として開発された SaaS システムの保守運用を担当。また、アカウント追加や利用している音声評価 API の切り替えも実施|Python, Django, EC2, Github Actions|・MVP アプリケーションへの Git 管理、CI の導入<br>・オフショアに頼って開発された機能の修正・レビュー<br>・保守運用|
 |2021/10 ~ 2023/01|ネイティブアプリへの移管|MVP として開発された SaaS システムの利便性、本格的な開発のため、ネイティブアプリへの移管を実施。エンジニアの副業メンバーは自分を含む 2 名であったため、自分はバックエンドの開発全般を担当。<br>メンバーの少なさからバックエンド、フロントエンドのコンテキストスイッチが発生しない TypeScript をメインの言語として採用|TypeScript, Nest.js, Prisma, Go, Docker, Aurora MySQL, ECS, CodeDeploy, Lambda, Amazon API Gateway, GitHub Actions, Terraform|・ネイティブアプリ用の Web API の設計・開発・運用全て<br>・Web API への Ci/CD の導入<br>・アプリケーションが利用するリソースの IaC|
-|2022/02 ~ 2023/01|ネイティブアプリの機能追加・デザイン改修|ネイティブアプリ側で実現したい要件が増えたため、ネイティブアプリの機能・デザイン改修に従事。2023/01にサービスクローズ|TypeScript, React Native, React-Hooks-Form, Zeplin|
+|2022/02 ~ 2023/01|ネイティブアプリの機能追加・デザイン改修|ネイティブアプリ側で実現したい要件が増えたため、ネイティブアプリの機能・デザイン改修に従事。2023/01 にサービスクローズ|TypeScript, React Native, React-Hooks-Form, Zeplin|
 
 ---
 
@@ -73,12 +73,11 @@
 ### インフラ・その他
 
 - MySQL・OracleDB
-  - 実行計画からSQLのチューニングの実施(OracleDB)
-  - インデックスの改善(OracleDB)
-  - DB移行の経験あり(OracleDB)
+    - 実行計画から SQL のチューニングの実施（OracleDB）
+    - インデックスの改善（OracleDB）
+    - DB 移行の経験あり（OracleDB）
 - AWS
-  - EC2, ECS, Fargate, RDS, Route53, APIGateway, Lambda, S3, ALB
-  - IaC を使ってWebAPIに必要な一通りのインフラを構築できる程度。業務では利用していないため、 AWS上のインフラチューニングなどは不得意
+  - IaC を使って WebAPI に必要な一通りのインフラを構築できる程度。業務では利用していないため、AWS 上のインフラチューニングなどは不得意
 - Terraform
 
 ---
@@ -100,7 +99,7 @@
 - [TorchCRF](https://github.com/s14t284/TorchCRF)：Conditional Random Fields の pytorch 1.0 対応
 - [miNER](https://github.com/s14t284/miNER)：固有表現抽出の実験結果を簡単に評価できるライブラリ
 - [foggo](https://github.com/s14t284/foggo)：Go の 構造体定義から Functional Options Pattern のコードを自動生成する CLI ツール
-- [virtual-pilgrimage](https://github.com/s14t284/virtual-pilgrimage)：仮想的に四国八十八ヶ所お遍路を体験することができる歩数系アプリ。地方自治体から依頼され、開発したアプリケーション。
+- [virtual-pilgrimage](https://github.com/s14t284/virtual-pilgrimage)：仮想的に四国八十八ヶ所お遍路を体験できる歩数系アプリ。地方自治体から依頼され、開発したアプリケーション
 
 ### 執筆歴
 
