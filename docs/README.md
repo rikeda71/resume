@@ -24,6 +24,7 @@
 |||在職中|
 |2021|7|株式会社 Newro 業務委託 開始|
 |2023|1|株式会社 Newro 業務委託 終了|
+|2023|7|Alanse 株式会社 業務委託 開始|
 
 ### 職務経歴
 
@@ -55,6 +56,11 @@
 |2021/10 ~ 2023/01|ネイティブアプリへの移管|MVP として開発された SaaS システムの利便性、本格的な開発のため、ネイティブアプリへの移管を実施。エンジニアの副業メンバーは自分を含む 2 名であったため、自分はバックエンドの開発全般を担当。<br>メンバーの少なさからバックエンド、フロントエンドのコンテキストスイッチが発生しない TypeScript をメインの言語として採用|TypeScript, Nest.js, Prisma, Go, Docker, Aurora MySQL, ECS, CodeDeploy, Lambda, Amazon API Gateway, GitHub Actions, Terraform|・ネイティブアプリ用の Web API の設計・開発・運用全て<br>・Web API への Ci/CD の導入<br>・アプリケーションが利用するリソースの IaC|
 |2022/02 ~ 2023/01|ネイティブアプリの機能追加・デザイン改修|ネイティブアプリ側で実現したい要件が増えたため、ネイティブアプリの機能・デザイン改修に従事。2023/01 にサービスクローズ|TypeScript, React Native, React-Hooks-Form, Zeplin|
 
+## Alanse 株式会社
+
+業務委託として、他社の Web アプリケーション開発に関わる。  
+主にバックエンドアプリケーションの開発、 Terraform + AWS によるインフラ構築、CI/CD パイプラインの構築、システムアーキテクチャの設計などを担当。
+
 ---
 
 ## 技術スタック
@@ -69,6 +75,7 @@
 ### フレームワーク
 
 - SpringBoot
+- Apache Storm
 - React・Next.js
 - Nest.js
 
@@ -80,7 +87,11 @@
     - DB 移行の経験あり（OracleDB）
 - AWS
   - IaC を使って WebAPI に必要な一通りのインフラを構築できる程度。業務では利用していないため、AWS 上のインフラチューニングなどは不得意
-- Terraform
+- Terraform・Terragrunt
+  - 主に業務委託で利用
+  - AWS で ECS や RDS(Aurora MySQL), DynamoDB, Athena などを活用したインフラ構成ができる程度
+- PagerDuty
+  - 本業でチームの架電ローテーションの検討・運用
 
 ---
 
@@ -89,8 +100,9 @@
 |項目|値|
 |---|---|
 |メールアドレス|tech.adeki@gmail.com|
-|Github|[s14t284](https://github.com/s14t284)|
-|Zenn|[ikechan0829](https://twitter.com/techadeki)|
+|Github|[rikeda71](https://github.com/rikeda71)|
+|twitter|[rikeda71](https://twitter.com/rikeda71)|
+|Zenn|[rikeda71](https://twitter.com/ikechan0829)|
 
 ---
 
