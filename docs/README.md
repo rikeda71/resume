@@ -293,6 +293,7 @@
 |Github|[rikeda71](https://github.com/rikeda71)|
 |twitter|[rikeda71](https://twitter.com/rikeda71)|
 |Zenn|[rikeda71](https://twitter.com/ikechan0829)|
+|LinkedIn|[Ryuya Ikeda](https://www.linkedin.com/in/ryuya-ikeda-14118a1b2/)|
 
 ---
 
