@@ -1,4 +1,4 @@
-# s14t284 resume
+# rikeda71 resume
 
 [レジュメ](./docs/README.md)
 
